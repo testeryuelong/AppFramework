@@ -1,11 +1,11 @@
 # AppFramework
 基于appium的混合驱动框架
 
-AppTest:
+整体框架思路：
 
 --action
 
-   --AppAction.py     # 关键字函数
+    --AppAction.py     # 关键字函数
    
 
 --config  
@@ -49,6 +49,8 @@ AppTest:
     --WaitUtil.py           # 显示等待模块
     
 
----以下可忽略
+---以下可忽略，测试代码：
+
 script.py   # 未封装简单版本
+
 scriptWaitUtil.py    # 显示等待方法验证
