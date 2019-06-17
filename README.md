@@ -1,6 +1,8 @@
 # AppFramework
 基于appium的混合驱动框架
 
+AppTest:
+
 --action
     --AppAction.py     # 关键字函数
 
