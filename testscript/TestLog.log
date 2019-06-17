@@ -1,0 +1,107 @@
+2019-06-17 14:38:18 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platformVersion": "5.1.1", "appium:deviceName": "18d1c688", "appium:appPackage": "com.xsteach.appedu", "appium:appActivity": "com.xsteach.components.ui.activity.XSMainActivity", "appium:unicodeKeyboard": true, "appium:resetKeyboard": true}]}, "desiredCapabilities": {"platformName": "Android", "platformVersion": "5.1.1", "deviceName": "18d1c688", "appPackage": "com.xsteach.appedu", "appActivity": "com.xsteach.components.ui.activity.XSMainActivity", "unicodeKeyboard": true, "resetKeyboard": true}}
+2019-06-17 14:38:18 connectionpool.py[line:205] DEBUG Starting new HTTP connection (1): 127.0.0.1:4723
+2019-06-17 14:38:29 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 837
+2019-06-17 14:38:29 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:29 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/content_rb_mine", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:30 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:30 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:30 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/1/click {"id": "1", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:30 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/1/click HTTP/1.1" 200 14
+2019-06-17 14:38:30 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:30 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tvLogin", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:32 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:32 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:32 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/2/click {"id": "2", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:32 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/2/click HTTP/1.1" 200 14
+2019-06-17 14:38:32 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:32 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/etUser", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:33 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:33 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:33 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/3/clear {"id": "3", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:34 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/3/clear HTTP/1.1" 200 14
+2019-06-17 14:38:34 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:34 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/etUser", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:34 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:34 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:34 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/4/value {"text": "18730603667", "value": ["1", "8", "7", "3", "0", "6", "0", "3", "6", "6", "7"], "id": "4", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/4/value HTTP/1.1" 200 14
+2019-06-17 14:38:40 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/etPwd", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:40 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:40 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:40 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/5/clear {"id": "5", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:45 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/5/clear HTTP/1.1" 200 14
+2019-06-17 14:38:45 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:45 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/etPwd", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:45 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:45 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:45 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/6/value {"text": "123456yuzg", "value": ["1", "2", "3", "4", "5", "6", "y", "u", "z", "g"], "id": "6", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:50 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/6/value HTTP/1.1" 200 14
+2019-06-17 14:38:50 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:50 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/btnLogin", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:50 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 200 67
+2019-06-17 14:38:50 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:50 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/7/click {"id": "7", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:51 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element/7/click HTTP/1.1" 200 14
+2019-06-17 14:38:51 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:51 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:51 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:51 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:52 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:52 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:52 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:52 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:52 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:52 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:53 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:53 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:53 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:53 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:53 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:53 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:54 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:54 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:54 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:54 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:54 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:54 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:55 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:55 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:55 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:55 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:55 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:55 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:56 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:56 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:56 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:56 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:56 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:56 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:57 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:57 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:57 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:58 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:58 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:58 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:58 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:58 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:58 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:59 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:59 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:59 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:38:59 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:38:59 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:38:59 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:39:00 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:39:00 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:39:00 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:39:00 remote_connection.py[line:388] DEBUG POST http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element {"using": "id", "value": "com.xsteach.appedu:id/tv_integral", "sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:39:00 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "POST /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/element HTTP/1.1" 404 511
+2019-06-17 14:39:00 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:39:01 remote_connection.py[line:388] DEBUG GET http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/screenshot {"sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:39:03 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "GET /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/screenshot HTTP/1.1" 200 165136
+2019-06-17 14:39:03 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:39:03 remote_connection.py[line:388] DEBUG GET http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/source {"sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
+2019-06-17 14:39:03 connectionpool.py[line:393] DEBUG http://127.0.0.1:4723 "GET /wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/source HTTP/1.1" 200 3133
+2019-06-17 14:39:03 remote_connection.py[line:440] DEBUG Finished Request
+2019-06-17 14:39:03 remote_connection.py[line:388] DEBUG GET http://127.0.0.1:4723/wd/hub/session/f0114505-bbdd-4197-bd0a-04ad7720b526/screenshot {"sessionId": "f0114505-bbdd-4197-bd0a-04ad7720b526"}
