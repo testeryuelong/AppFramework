@@ -51,6 +51,6 @@
 
 ---以下可忽略，测试代码：
 
-script.py   # 未封装简单版本
+    --script.py   # 未封装简单版本
 
-scriptWaitUtil.py    # 显示等待方法验证
+    --scriptWaitUtil.py    # 显示等待方法验证
